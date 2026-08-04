@@ -1,0 +1,23 @@
+Database : 
+
+SQL : 1970 : 2026 : 56 years
+
+Relational Database : 
+
+Non Relational Database : 
+
+Big Data : 
+
+Cloud : 
+
+Python : 1991 : 2026 : 3.14.6
+
+35 years : 2hrs you tube
+
+Data Scrapping
+
+Tools : 
+Excel
+Power BI / Tableau
+
+Python :  numpy, pandas, seaborn, matplotlib
